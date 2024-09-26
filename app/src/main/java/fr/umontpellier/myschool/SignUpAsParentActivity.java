@@ -1,4 +1,6 @@
 package fr.umontpellier.myschool;
 
-public class SignUpAsParentActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class SignUpAsParentActivity extends AppCompatActivity {
 }

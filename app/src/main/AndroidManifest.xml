@@ -28,6 +28,8 @@
 
         <activity android:name=".SignUpAsStudentActivity" />
 
+        <activity android:name=".SignUpAsParentActivity" />
+
 
     </application>
 
