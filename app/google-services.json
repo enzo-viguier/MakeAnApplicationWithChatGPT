@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529289570113",
+    "project_id": "myschool-afb15",
+    "storage_bucket": "myschool-afb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529289570113:android:8db9841b04a1200b0223c0",
+        "android_client_info": {
+          "package_name": "fr.umontpellier.myschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6w62jHMMEDaToiw2pf05QWOo_iLqyY4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
